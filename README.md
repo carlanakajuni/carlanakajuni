@@ -6,7 +6,7 @@ I am currently a Full Stack Development Student at [Trybe](https://www.betrybe.c
 
 :sunny: **Some infos about me:** 
 
-:house_with_garden: I'm currently living in São Paulo - Brazil;
-
-:thought_balloon: A big beliver that thecnology can resolve many 
-issues and that's why I'm looking for a chance to get started in this carrer; 
+- :house_with_garden: I'm currently living in São Paulo - Brazil;
+- :thought_balloon: A big beliver that thecnology can resolve many 
+issues and that's why I'm looking for an opportunity to get started in this carrer;
+- :honeybee: I appreciate teamwork as in work environments as in hobbies places, where I practice sports in group :soccer: :rugby_football:;
