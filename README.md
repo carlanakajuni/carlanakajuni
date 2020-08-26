@@ -10,7 +10,9 @@ I am currently a Full Stack Development Student at [Trybe](https://www.betrybe.c
 - :thought_balloon: A big beliver that thecnology can resolve many 
 issues and that's why I'm looking for an opportunity to get started in this carrer;
 - :honeybee: I appreciate teamwork as in work environments as in hobbies places, where I practice sports in group :soccer: :rugby_football:;
-- :pray: Please, fell free to send me feedbacks and contributing on my GitHub Page :octocat:
+
+
+:pray: Please, fell free to send me feedbacks and contributing on my GitHub Page :octocat:
 
 You can reach me on:
 
