@@ -21,4 +21,5 @@ You can reach me on:
   <a href="https://instagram.com/carlanakajuni"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://www.facebook.com/carla.nakajuniaritagaivota/"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/facebook-round.png" width="35px" alt="Facebook">     </a> &nbsp; &nbsp;
   <a href="https://t.me/carlanakajuni"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/telegram-round.svg" width="35px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="mailto:carlanakajuni@gmail.com?subject=Hello%20Carla"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
