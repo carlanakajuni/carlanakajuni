@@ -1,8 +1,6 @@
 **Hello :earth_americas: , welcome to my GitHub  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
 
-I'm Carla, a Finance graduate who's transitioning into Software Development.
-
-I am certified as Full Stack Development Student at [Trybe](https://www.betrybe.com/), where I learnt many hard skills but also very important soft skills to prepare myself to know how to deal with different kind of people, different environments and situations.
+I'm Carla, certified as Full Stack Development Student at [Trybe](https://www.betrybe.com/), where I learnt many hard skills but also very important soft skills to prepare myself to know how to deal with different kind of people, different environments and situations.
 
 <img align="right" src="https://github.com/carlanakajuni/carlanakajuni/blob/master/mina.gif">
 
