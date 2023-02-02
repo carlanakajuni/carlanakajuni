@@ -2,16 +2,16 @@
 
 I'm Carla, a Finance graduate who's transitioning into Software Development.
 
-I am currently a Full Stack Development Student at [Trybe](https://www.betrybe.com/), where I'm learning many hard skills but also very important soft skills to prepare myself to know how to deal with different kind of people, different environments and situations.
+I am certified as Full Stack Development Student at [Trybe](https://www.betrybe.com/), where I learnt many hard skills but also very important soft skills to prepare myself to know how to deal with different kind of people, different environments and situations.
 
 <img align="right" src="https://github.com/carlanakajuni/carlanakajuni/blob/master/mina.gif">
 
 :sunny: **Information:** 
 
 - :house_with_garden: I'm currently living in São Paulo - Brazil;
-- :thought_balloon: A big believer that technology can resolve many 
-issues and that's why I'm looking for an opportunity to get started in this career;
-- :honeybee: I appreciate teamwork in workplaces as much as when I practice sports :soccer: :rugby_football:;
+- :thought_balloon: A big believer that technology can solve many 
+issues;
+- :honeybee: I appreciate teamwork in workplaces as much as when I am playing sports :soccer: :rugby_football:;
 
 
 :pray: Please, feel free to send me feedbacks and contributing to my GitHub Page :octocat:
